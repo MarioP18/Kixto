@@ -1,10 +1,10 @@
 html{
-    background: url("Imagenes/"grey-wallpaper-Grey-lines.jpg") bottom center;
+    background: url("Imagenes/grey-wallpaper-Grey-lines.jpg") bottom center;
     background-size:cover;
 }
 header { 
     text-align: center;
-    background-image: url("Imagenes/"kevin-saint-grey-3.jpg"); 
+    background-image: url("Imagenes/kevin-saint-grey-3.jpg"); 
     height: 280px;
     padding-bottom: 0px;
     padding-top: 10px;
